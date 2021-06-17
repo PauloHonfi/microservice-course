@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import br.com.paulohonfi.hrworker.entities.Worker;
-import br.com.paulohonfi.hrworker.service.WorkerService;
+import br.com.paulohonfi.hrworker.services.WorkerService;
 
 /**
  * @author Paulo Honfi

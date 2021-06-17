@@ -1,7 +1,7 @@
 /**
  * 
  */
-package br.com.paulohonfi.hrworker.service;
+package br.com.paulohonfi.hrworker.services;
 
 import java.util.List;
 
