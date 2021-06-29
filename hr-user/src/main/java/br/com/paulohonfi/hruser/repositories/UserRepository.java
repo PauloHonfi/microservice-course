@@ -1,11 +1,11 @@
 /**
  * 
  */
-package br.com.paulohonfi.hrpayroll.hruser.repositories;
+package br.com.paulohonfi.hruser.repositories;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
-import br.com.paulohonfi.hrpayroll.hruser.entities.User;
+import br.com.paulohonfi.hruser.entities.User;
 
 /**
  * @author Paulo Honfi

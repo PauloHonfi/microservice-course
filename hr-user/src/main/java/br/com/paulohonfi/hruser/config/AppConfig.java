@@ -1,7 +1,7 @@
 /**
  * 
  */
-package br.com.paulohonfi.hrpayroll.hruser.config;
+package br.com.paulohonfi.hruser.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

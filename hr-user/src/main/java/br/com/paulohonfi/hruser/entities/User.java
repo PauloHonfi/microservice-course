@@ -1,7 +1,7 @@
 /**
  * 
  */
-package br.com.paulohonfi.hrpayroll.hruser.entities;
+package br.com.paulohonfi.hruser.entities;
 
 import java.io.Serializable;
 import java.util.HashSet;

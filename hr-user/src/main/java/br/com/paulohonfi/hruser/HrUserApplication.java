@@ -1,4 +1,4 @@
-package br.com.paulohonfi.hrpayroll.hruser;
+package br.com.paulohonfi.hruser;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;

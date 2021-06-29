@@ -1,13 +1,13 @@
 /**
  * 
  */
-package br.com.paulohonfi.hrpayroll.hruser.services;
+package br.com.paulohonfi.hruser.services;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import br.com.paulohonfi.hrpayroll.hruser.entities.User;
-import br.com.paulohonfi.hrpayroll.hruser.repositories.UserRepository;
+import br.com.paulohonfi.hruser.entities.User;
+import br.com.paulohonfi.hruser.repositories.UserRepository;
 
 /**
  * @author Paulo Honfi

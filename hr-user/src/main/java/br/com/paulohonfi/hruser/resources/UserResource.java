@@ -1,7 +1,7 @@
 /**
  * 
  */
-package br.com.paulohonfi.hrpayroll.hruser.resources;
+package br.com.paulohonfi.hruser.resources;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
@@ -11,8 +11,8 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
-import br.com.paulohonfi.hrpayroll.hruser.entities.User;
-import br.com.paulohonfi.hrpayroll.hruser.services.UserService;
+import br.com.paulohonfi.hruser.entities.User;
+import br.com.paulohonfi.hruser.services.UserService;
 
 /**
  * @author Paulo Honfi
