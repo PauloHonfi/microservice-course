@@ -1,4 +1,4 @@
-package br.com.paulohonfi.hrpayroll.hrapigatewayzuul;
+package br.com.paulohonfi.hrapigatewayzuul;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
