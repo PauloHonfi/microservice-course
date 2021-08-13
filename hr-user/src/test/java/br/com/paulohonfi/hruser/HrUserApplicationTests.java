@@ -1,4 +1,4 @@
-package br.com.paulohonfi.hrpayroll.hruser;
+package br.com.paulohonfi.hruser;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
